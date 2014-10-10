@@ -1,816 +1,0 @@
-TVirtualGuide
-v6
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/Info.plist /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/VirtualGuide-Info.plist
-cPhaseScriptExecution Copy\ www\ directory /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Script-304B58A110DAC018002A0835.sh
-cCpResource VirtualGuide/Resources/icons/icon-76.png build/emulator/VirtualGuide.app/icon-76.png
-cCpResource VirtualGuide/Resources/icons/icon-40@2x.png build/emulator/VirtualGuide.app/icon-40@2x.png
-cCpResource VirtualGuide/Resources/icons/icon-72.png build/emulator/VirtualGuide.app/icon-72.png
-cCpResource VirtualGuide/Resources/icons/icon.png build/emulator/VirtualGuide.app/icon.png
-cCpResource VirtualGuide/Resources/icons/icon@2x.png build/emulator/VirtualGuide.app/icon@2x.png
-cCopyStringsFile /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/en.lproj/Localizable.strings VirtualGuide/Resources/en.lproj/Localizable.strings
-cCompileXIB /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Classes/MainViewController.xib
-cCpResource VirtualGuide/Resources/icons/icon-50.png build/emulator/VirtualGuide.app/icon-50.png
-cCpResource VirtualGuide/Resources/icons/icon-60@2x.png build/emulator/VirtualGuide.app/icon-60@2x.png
-cCopyStringsFile /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/de.lproj/Localizable.strings VirtualGuide/Resources/de.lproj/Localizable.strings
-cCpResource VirtualGuide/Resources/icons/icon-small.png build/emulator/VirtualGuide.app/icon-small.png
-cCpResource VirtualGuide/Resources/splash/Default-Landscape~ipad.png build/emulator/VirtualGuide.app/Default-Landscape~ipad.png
-cCpResource VirtualGuide/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/VirtualGuide.app/Default-Landscape@2x~ipad.png
-cCpResource VirtualGuide/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/VirtualGuide.app/Default-Portrait@2x~ipad.png
-cCpResource VirtualGuide/Resources/icons/icon-small@2x.png build/emulator/VirtualGuide.app/icon-small@2x.png
-cCpResource VirtualGuide/Resources/splash/Default-Portrait~ipad.png build/emulator/VirtualGuide.app/Default-Portrait~ipad.png
-cCpResource VirtualGuide/Resources/icons/icon-40.png build/emulator/VirtualGuide.app/icon-40.png
-cCpResource VirtualGuide/Resources/splash/Default@2x~iphone.png build/emulator/VirtualGuide.app/Default@2x~iphone.png
-cCpResource VirtualGuide/Resources/icons/icon-60.png build/emulator/VirtualGuide.app/icon-60.png
-cCpResource VirtualGuide/Resources/splash/Default~iphone.png build/emulator/VirtualGuide.app/Default~iphone.png
-cCpResource VirtualGuide/Resources/splash/Default-568h@2x~iphone.png build/emulator/VirtualGuide.app/Default-568h@2x~iphone.png
-cCpResource VirtualGuide/Resources/icons/icon-76@2x.png build/emulator/VirtualGuide.app/icon-76@2x.png
-cCpResource VirtualGuide/Resources/icons/icon-50@2x.png build/emulator/VirtualGuide.app/icon-50@2x.png
-cCpResource VirtualGuide/Resources/icons/icon-72@2x.png build/emulator/VirtualGuide.app/icon-72@2x.png
-cProcessPCH /var/folders/3_/911fk42n3nxgfhk8xnnr13l8d9445t/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/VirtualGuide-Prefix-evnyrxrkortcsafsskfpdclsgwwb/VirtualGuide-Prefix.pch.pch VirtualGuide/VirtualGuide-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/main.o /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/AppDelegate.o /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/MainViewController.o /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/VirtualGuide normal i386
-cGenerateDSYMFile /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app.dSYM /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/VirtualGuide
-cTouch /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
-c0000000053119F8A0000000000000198
-t1393663882
-s408
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
-c0000000053ECD1B200000000000003B4
-t1408029106
-s948
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
-c0000000053ECD1B6000000000000019E
-t1408029110
-s414
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
-c0000000053ECD1B70000000000059340
-t1408029111
-s365376
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c0000000053ECD1B80000000000446820
-t1408029112
-s4483104
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
-c0000000053ECD1B800000000000F1A80
-t1408029112
-s989824
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
-c0000000053ECD1B900000000001BE790
-t1408029113
-s1828752
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Classes/AppDelegate.m
-c00000000543179700000000000001773
-t1412528496
-s6003
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Classes/MainViewController.m
-c0000000054317970000000000000126D
-t1412528496
-s4717
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Classes/MainViewController.xib
-c00000000543179700000000000001759
-t1412528496
-s5977
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/de.lproj/Localizable.strings
-c000000005431797000000000000004C0
-t1412528496
-s1216
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/en.lproj/Localizable.strings
-c000000005431797000000000000004AB
-t1412528496
-s1195
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon-40.png
-c00000000543179700000000000000FF2
-t1412528496
-s4082
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon-40@2x.png
-c00000000543179700000000000001CF3
-t1412528496
-s7411
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon-50.png
-c0000000054317970000000000000130A
-t1412528496
-s4874
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon-50@2x.png
-c0000000054317970000000000000258B
-t1412528496
-s9611
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon-60.png
-c000000005431797000000000000016B3
-t1412528496
-s5811
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon-60@2x.png
-c00000000543179700000000000002E94
-t1412528496
-s11924
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon-72.png
-c00000000543179700000000000001350
-t1412528496
-s4944
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon-72@2x.png
-c00000000543179700000000000002DBA
-t1412528496
-s11706
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon-76.png
-c00000000543179700000000000001B71
-t1412528496
-s7025
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon-76@2x.png
-c00000000543179700000000000003B9E
-t1412528496
-s15262
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon-small.png
-c00000000543179700000000000000CDE
-t1412528496
-s3294
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon-small@2x.png
-c000000005431797000000000000015E8
-t1412528496
-s5608
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon.png
-c00000000543179700000000000000F3E
-t1412528496
-s3902
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon@2x.png
-c00000000543179700000000000001EBD
-t1412528496
-s7869
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/splash/Default-568h@2x~iphone.png
-c000000005431797000000000000085B1
-t1412528496
-s34225
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/splash/Default-Landscape@2x~ipad.png
-c00000000543179700000000000033D0A
-t1412528496
-s212234
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/splash/Default-Landscape~ipad.png
-c000000005431797000000000000166A2
-t1412528496
-s91810
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/splash/Default-Portrait@2x~ipad.png
-c00000000543179700000000000033F7C
-t1412528496
-s212860
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/splash/Default-Portrait~ipad.png
-c00000000543179700000000000016641
-t1412528496
-s91713
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/splash/Default@2x~iphone.png
-c00000000543179700000000000007323
-t1412528496
-s29475
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/splash/Default~iphone.png
-c0000000054317970000000000000289A
-t1412528496
-s10394
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/VirtualGuide-Info.plist
-c0000000054317A4B0000000000000A16
-t1412528715
-s2582
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/VirtualGuide-Prefix.pch
-c000000005431797000000000000003C9
-t1412528496
-s969
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/main.m
-c0000000054317970000000000000045E
-t1412528496
-s1118
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/AppDelegate.o
-t1412528760
-s77480
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/MainViewController.o
-t1412528760
-s51656
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/VirtualGuide.LinkFileList
-c0000000054317A6D0000000000000213
-t1412528749
-s531
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/main.o
-t1412528760
-s3052
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Script-304B58A110DAC018002A0835.sh
-c0000000054317A6D000000000000002D
-t1412528749
-s45
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app
-t1412528760
-s1020
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app.dSYM
-t2
-s0
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/Default-568h@2x~iphone.png
-t1412528749
-s34225
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/Default-Landscape@2x~ipad.png
-t1412528749
-s212234
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/Default-Landscape~ipad.png
-t1412528749
-s91810
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/Default-Portrait@2x~ipad.png
-t1412528749
-s212860
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/Default-Portrait~ipad.png
-t1412528749
-s91713
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/Default@2x~iphone.png
-t1412528749
-s29475
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/Default~iphone.png
-t1412528749
-s10394
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/Info.plist
-t1412528749
-s1294
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/MainViewController.nib
-t1412528759
-s836
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/PkgInfo
-t2
-s0
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/VirtualGuide
-t1412528760
-s277896
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/de.lproj/Localizable.strings
-t1412528749
-s280
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/en.lproj/Localizable.strings
-t1412528749
-s166
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon-40.png
-t1412528749
-s4082
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon-40@2x.png
-t1412528749
-s7411
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon-50.png
-t1412528749
-s4874
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon-50@2x.png
-t1412528749
-s9611
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon-60.png
-t1412528749
-s5811
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon-60@2x.png
-t1412528749
-s11924
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon-72.png
-t1412528749
-s4944
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon-72@2x.png
-t1412528749
-s11706
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon-76.png
-t1412528749
-s7025
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon-76@2x.png
-t1412528749
-s15262
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon-small.png
-t1412528749
-s3294
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon-small@2x.png
-t1412528749
-s5608
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon.png
-t1412528749
-s3902
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon@2x.png
-t1412528749
-s7869
-
-N/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/libCordova.a
-c0000000054317A6D00000000000D48E0
-t1412528749
-s870624
-
-N/var/folders/3_/911fk42n3nxgfhk8xnnr13l8d9445t/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/VirtualGuide-Prefix-evnyrxrkortcsafsskfpdclsgwwb/VirtualGuide-Prefix.pch.pch
-t1412528760
-s5377292
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesf03455edb1e1b941^d53d56edb1e1b941^---0#1#1#--18"Check dependencies36"4B6AB3FF-5487-4CB3-A1A3-D9E6C7BAEC8D-
-
-CCompileC build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/AppDelegate.o /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s434221560.291934
-e434221560.346844
-r1
-xCompileC
-xbuild/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/AppDelegate.o
-x/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Classes/AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Classes/AppDelegate.m
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Classes/AppDelegate.h
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Classes/MainViewController.h
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Classes/AppDelegate.m227"[1mCompileC[0m build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/AppDelegate.o [1mVirtualGuide/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler88da4af8b1e1b941^29cb58f8b1e1b941^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Classes/AppDelegate.m0000000000000000^4394"[1mCompileC[0m build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/AppDelegate.o [1mVirtualGuide/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=93 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/VirtualGuide-generated-files.hmap -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/VirtualGuide-own-target-headers.hmap -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/VirtualGuide-all-target-headers.hmap -iquote /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/VirtualGuide-project-headers.hmap -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/include -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/usr/local/lib/include -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/UninstalledProducts/include -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/DerivedSources/i386 -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/DerivedSources -F/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator -include /var/folders/3_/911fk42n3nxgfhk8xnnr13l8d9445t/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/VirtualGuide-Prefix-evnyrxrkortcsafsskfpdclsgwwb/VirtualGuide-Prefix.pch -MMD -MT dependencies -MF /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/AppDelegate.dia -c /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Classes/AppDelegate.m -o /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/AppDelegate.o36"5BFB47A2-A524-4C76-A4E8-B5C8AAB450FE-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CCompileC build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/MainViewController.o /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s434221560.292282
-e434221560.338136
-r1
-xCompileC
-xbuild/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/MainViewController.o
-x/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Classes/MainViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Classes/MainViewController.m
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Classes/MainViewController.h
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compile /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Classes/MainViewController.m241"[1mCompileC[0m build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/MainViewController.o [1mVirtualGuide/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler63ee4af8b1e1b941^c99156f8b1e1b941^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Classes/MainViewController.m0000000000000000^4436"[1mCompileC[0m build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/MainViewController.o [1mVirtualGuide/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=93 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/VirtualGuide-generated-files.hmap -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/VirtualGuide-own-target-headers.hmap -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/VirtualGuide-all-target-headers.hmap -iquote /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/VirtualGuide-project-headers.hmap -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/include -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/usr/local/lib/include -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/UninstalledProducts/include -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/DerivedSources/i386 -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/DerivedSources -F/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator -include /var/folders/3_/911fk42n3nxgfhk8xnnr13l8d9445t/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/VirtualGuide-Prefix-evnyrxrkortcsafsskfpdclsgwwb/VirtualGuide-Prefix.pch -MMD -MT dependencies -MF /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/MainViewController.dia -c /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Classes/MainViewController.m -o /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/MainViewController.o36"C56D1310-F1A3-4C3B-8AE8-FDC767B13469-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CCompileC build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/main.o /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s434221560.291549
-e434221560.311144
-r1
-xCompileC
-xbuild/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/main.o
-x/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/main.m
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/main.m205"[1mCompileC[0m build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/main.o [1mVirtualGuide/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler93c84af8b1e1b941^65a74ff8b1e1b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/main.m0000000000000000^4336"[1mCompileC[0m build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/main.o [1mVirtualGuide/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=93 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/VirtualGuide-generated-files.hmap -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/VirtualGuide-own-target-headers.hmap -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/VirtualGuide-all-target-headers.hmap -iquote /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/VirtualGuide-project-headers.hmap -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/include -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/usr/local/lib/include -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/UninstalledProducts/include -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/DerivedSources/i386 -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/DerivedSources -F/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator -include /var/folders/3_/911fk42n3nxgfhk8xnnr13l8d9445t/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/VirtualGuide-Prefix-evnyrxrkortcsafsskfpdclsgwwb/VirtualGuide-Prefix.pch -MMD -MT dependencies -MF /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/main.dia -c /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/main.m -o /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/main.o36"8C9A7BDE-A4E4-402D-ACD6-1E683B742DE2-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CCompileXIB /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Classes/MainViewController.xib
-s434221549.449941
-e434221559.967145
-r1
-xCompileXIB
-x/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Classes/MainViewController.xib
-o2014-10-05 13:05:59.382 Interface Builder Cocoa Touch Tool[17136:303] CFPreferences: user home directory at file:///Users/coucurti1/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Compiling /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Classes/MainViewController.xib70"[1mCompileXIB[0m [1mVirtualGuide/Classes/MainViewController.xib[0m841074edb1e1b941^7897f7f7b1e1b941^-234"2014-10-05 13:05:59.382 Interface Builder Cocoa Touch Tool[17136:303] CFPreferences: user home directory at file:///Users/coucurti1/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@127"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Classes/MainViewController.xib0000000000000000^1049"[1mCompileXIB[0m [1mVirtualGuide/Classes/MainViewController.xib[0m    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/MainViewController.nib /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Classes/MainViewController.xib36"21D148CC-1B11-4D69-BCC2-6E71DF8B13FD-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CCopyStringsFile /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/de.lproj/Localizable.strings VirtualGuide/Resources/de.lproj/Localizable.strings
-s434221549.453196
-e434221549.471184
-r1
-xCopyStringsFile
-x/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/de.lproj/Localizable.strings
-xVirtualGuide/Resources/de.lproj/Localizable.strings
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy VirtualGuide/Resources/de.lproj/Localizable.strings136"[1mCopyStringsFile[0m build/emulator/VirtualGuide.app/de.lproj/Localizable.strings VirtualGuide/Resources/de.lproj/Localizable.strings9fcb74edb1e1b941^bf9978edb1e1b941^---0#0#1#-19%DVTDocumentLocation2@135"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/de.lproj/Localizable.strings0000000000000000^820"[1mCopyStringsFile[0m build/emulator/VirtualGuide.app/de.lproj/Localizable.strings VirtualGuide/Resources/de.lproj/Localizable.strings    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/de.lproj -- VirtualGuide/Resources/de.lproj/Localizable.strings36"F67F2BA6-017E-44F8-97D4-E571DABFD596-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CCopyStringsFile /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/en.lproj/Localizable.strings VirtualGuide/Resources/en.lproj/Localizable.strings
-s434221549.449150
-e434221549.452096
-r1
-xCopyStringsFile
-x/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/en.lproj/Localizable.strings
-xVirtualGuide/Resources/en.lproj/Localizable.strings
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy VirtualGuide/Resources/en.lproj/Localizable.strings136"[1mCopyStringsFile[0m build/emulator/VirtualGuide.app/en.lproj/Localizable.strings VirtualGuide/Resources/en.lproj/Localizable.strings624b73edb1e1b941^6abd73edb1e1b941^---0#0#1#-19%DVTDocumentLocation2@135"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/en.lproj/Localizable.strings0000000000000000^820"[1mCopyStringsFile[0m build/emulator/VirtualGuide.app/en.lproj/Localizable.strings VirtualGuide/Resources/en.lproj/Localizable.strings    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/en.lproj -- VirtualGuide/Resources/en.lproj/Localizable.strings36"4B15E640-A9F0-4FA6-A609-FADD4E1896C9-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CCpResource VirtualGuide/Resources/icons/icon-40.png build/emulator/VirtualGuide.app/icon-40.png
-s434221549.458645
-e434221549.461138
-r1
-xCpResource
-xVirtualGuide/Resources/icons/icon-40.png
-xbuild/emulator/VirtualGuide.app/icon-40.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/VirtualGuide.app/icon-40.png103"[1mCpResource[0m VirtualGuide/Resources/icons/icon-40.png build/emulator/VirtualGuide.app/icon-40.png6f9b75edb1e1b941^1b0f76edb1e1b941^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon-40.png0034a42ddcffdf42^863"[1mCpResource[0m VirtualGuide/Resources/icons/icon-40.png build/emulator/VirtualGuide.app/icon-40.png    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon-40.png /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app36"E26DB368-7847-4CBB-8AC5-F7E84870CF60-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CCpResource VirtualGuide/Resources/icons/icon-40@2x.png build/emulator/VirtualGuide.app/icon-40@2x.png
-s434221549.446468
-e434221549.448022
-r1
-xCpResource
-xVirtualGuide/Resources/icons/icon-40@2x.png
-xbuild/emulator/VirtualGuide.app/icon-40@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/VirtualGuide.app/icon-40@2x.png109"[1mCpResource[0m VirtualGuide/Resources/icons/icon-40@2x.png build/emulator/VirtualGuide.app/icon-40@2x.png6f6472edb1e1b941^78b372edb1e1b941^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon-40@2x.png0034a42ddcffdf42^872"[1mCpResource[0m VirtualGuide/Resources/icons/icon-40@2x.png build/emulator/VirtualGuide.app/icon-40@2x.png    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon-40@2x.png /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app36"7A3D08A9-E190-4D63-8A6F-C33DC0F67F00-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CCpResource VirtualGuide/Resources/icons/icon-50.png build/emulator/VirtualGuide.app/icon-50.png
-s434221549.450689
-e434221549.453447
-r1
-xCpResource
-xVirtualGuide/Resources/icons/icon-50.png
-xbuild/emulator/VirtualGuide.app/icon-50.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/VirtualGuide.app/icon-50.png103"[1mCpResource[0m VirtualGuide/Resources/icons/icon-50.png build/emulator/VirtualGuide.app/icon-50.png3a9673edb1e1b941^901574edb1e1b941^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon-50.png0034a42ddcffdf42^863"[1mCpResource[0m VirtualGuide/Resources/icons/icon-50.png build/emulator/VirtualGuide.app/icon-50.png    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon-50.png /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app36"6F5F42CB-C57A-4793-8412-094DED9BAF81-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CCpResource VirtualGuide/Resources/icons/icon-50@2x.png build/emulator/VirtualGuide.app/icon-50@2x.png
-s434221549.462035
-e434221549.464228
-r1
-xCpResource
-xVirtualGuide/Resources/icons/icon-50@2x.png
-xbuild/emulator/VirtualGuide.app/icon-50@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/VirtualGuide.app/icon-50@2x.png109"[1mCpResource[0m VirtualGuide/Resources/icons/icon-50@2x.png build/emulator/VirtualGuide.app/icon-50@2x.png689476edb1e1b941^49d976edb1e1b941^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon-50@2x.png0034a42ddcffdf42^872"[1mCpResource[0m VirtualGuide/Resources/icons/icon-50@2x.png build/emulator/VirtualGuide.app/icon-50@2x.png    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon-50@2x.png /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app36"11886FA0-6A01-4CF6-B76E-6DBD8B3E4C8D-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CCpResource VirtualGuide/Resources/icons/icon-60.png build/emulator/VirtualGuide.app/icon-60.png
-s434221549.459535
-e434221549.460910
-r1
-xCpResource
-xVirtualGuide/Resources/icons/icon-60.png
-xbuild/emulator/VirtualGuide.app/icon-60.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/VirtualGuide.app/icon-60.png103"[1mCpResource[0m VirtualGuide/Resources/icons/icon-60.png build/emulator/VirtualGuide.app/icon-60.png78b475edb1e1b941^82ff75edb1e1b941^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon-60.png0034a42ddcffdf42^863"[1mCpResource[0m VirtualGuide/Resources/icons/icon-60.png build/emulator/VirtualGuide.app/icon-60.png    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon-60.png /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app36"7F67E16D-256F-47B0-B3AB-ED77686270B8-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CCpResource VirtualGuide/Resources/icons/icon-60@2x.png build/emulator/VirtualGuide.app/icon-60@2x.png
-s434221549.451284
-e434221549.453703
-r1
-xCpResource
-xVirtualGuide/Resources/icons/icon-60@2x.png
-xbuild/emulator/VirtualGuide.app/icon-60@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/VirtualGuide.app/icon-60@2x.png109"[1mCpResource[0m VirtualGuide/Resources/icons/icon-60@2x.png build/emulator/VirtualGuide.app/icon-60@2x.pngafeb73edb1e1b941^da5574edb1e1b941^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon-60@2x.png0034a42ddcffdf42^872"[1mCpResource[0m VirtualGuide/Resources/icons/icon-60@2x.png build/emulator/VirtualGuide.app/icon-60@2x.png    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon-60@2x.png /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app36"B0E93650-E5B4-4410-87B2-03B7416568DA-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CCpResource VirtualGuide/Resources/icons/icon-72.png build/emulator/VirtualGuide.app/icon-72.png
-s434221549.447063
-e434221549.448985
-r1
-xCpResource
-xVirtualGuide/Resources/icons/icon-72.png
-xbuild/emulator/VirtualGuide.app/icon-72.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/VirtualGuide.app/icon-72.png103"[1mCpResource[0m VirtualGuide/Resources/icons/icon-72.png build/emulator/VirtualGuide.app/icon-72.pngdd9872edb1e1b941^34f572edb1e1b941^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon-72.png0034a42ddcffdf42^863"[1mCpResource[0m VirtualGuide/Resources/icons/icon-72.png build/emulator/VirtualGuide.app/icon-72.png    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon-72.png /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app36"EAACEB39-5932-4981-9480-2224A9CE0667-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CCpResource VirtualGuide/Resources/icons/icon-72@2x.png build/emulator/VirtualGuide.app/icon-72@2x.png
-s434221549.463326
-e434221549.464494
-r1
-xCpResource
-xVirtualGuide/Resources/icons/icon-72@2x.png
-xbuild/emulator/VirtualGuide.app/icon-72@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/VirtualGuide.app/icon-72@2x.png109"[1mCpResource[0m VirtualGuide/Resources/icons/icon-72@2x.png build/emulator/VirtualGuide.app/icon-72@2x.png8bc676edb1e1b941^abe976edb1e1b941^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon-72@2x.png0034a42ddcffdf42^872"[1mCpResource[0m VirtualGuide/Resources/icons/icon-72@2x.png build/emulator/VirtualGuide.app/icon-72@2x.png    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon-72@2x.png /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app36"7BC0131A-AF4E-4A3E-913A-9274399944B9-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CCpResource VirtualGuide/Resources/icons/icon-76.png build/emulator/VirtualGuide.app/icon-76.png
-s434221549.446206
-e434221549.447689
-r1
-xCpResource
-xVirtualGuide/Resources/icons/icon-76.png
-xbuild/emulator/VirtualGuide.app/icon-76.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/VirtualGuide.app/icon-76.png103"[1mCpResource[0m VirtualGuide/Resources/icons/icon-76.png build/emulator/VirtualGuide.app/icon-76.pngac5272edb1e1b941^b69d72edb1e1b941^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon-76.png0034a42ddcffdf42^863"[1mCpResource[0m VirtualGuide/Resources/icons/icon-76.png build/emulator/VirtualGuide.app/icon-76.png    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon-76.png /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app36"04B30D52-5335-488F-874A-396E8578F962-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CCpResource VirtualGuide/Resources/icons/icon-76@2x.png build/emulator/VirtualGuide.app/icon-76@2x.png
-s434221549.462284
-e434221549.464033
-r1
-xCpResource
-xVirtualGuide/Resources/icons/icon-76@2x.png
-xbuild/emulator/VirtualGuide.app/icon-76@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/VirtualGuide.app/icon-76@2x.png109"[1mCpResource[0m VirtualGuide/Resources/icons/icon-76@2x.png build/emulator/VirtualGuide.app/icon-76@2x.png8a9076edb1e1b941^53cb76edb1e1b941^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon-76@2x.png0034a42ddcffdf42^872"[1mCpResource[0m VirtualGuide/Resources/icons/icon-76@2x.png build/emulator/VirtualGuide.app/icon-76@2x.png    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon-76@2x.png /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app36"DEA2618C-DDA9-478A-AECA-42CC287EE116-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CCpResource VirtualGuide/Resources/icons/icon-small.png build/emulator/VirtualGuide.app/icon-small.png
-s434221549.453478
-e434221549.456261
-r1
-xCpResource
-xVirtualGuide/Resources/icons/icon-small.png
-xbuild/emulator/VirtualGuide.app/icon-small.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/VirtualGuide.app/icon-small.png109"[1mCpResource[0m VirtualGuide/Resources/icons/icon-small.png build/emulator/VirtualGuide.app/icon-small.pngba4974edb1e1b941^27fa74edb1e1b941^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon-small.png0034a42ddcffdf42^872"[1mCpResource[0m VirtualGuide/Resources/icons/icon-small.png build/emulator/VirtualGuide.app/icon-small.png    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon-small.png /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app36"79BE37BD-2CE7-4FFB-9508-A090E79D256F-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CCpResource VirtualGuide/Resources/icons/icon-small@2x.png build/emulator/VirtualGuide.app/icon-small@2x.png
-s434221549.457523
-e434221549.459220
-r1
-xCpResource
-xVirtualGuide/Resources/icons/icon-small@2x.png
-xbuild/emulator/VirtualGuide.app/icon-small@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/emulator/VirtualGuide.app/icon-small@2x.png115"[1mCpResource[0m VirtualGuide/Resources/icons/icon-small@2x.png build/emulator/VirtualGuide.app/icon-small@2x.pngc05a75edb1e1b941^658e75edb1e1b941^---0#0#1#-19%DVTDocumentLocation2@133"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon-small@2x.png0034a42ddcffdf42^881"[1mCpResource[0m VirtualGuide/Resources/icons/icon-small@2x.png build/emulator/VirtualGuide.app/icon-small@2x.png    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon-small@2x.png /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app36"D72B21DD-D9A0-4282-96F1-71E4F288A38A-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CCpResource VirtualGuide/Resources/icons/icon.png build/emulator/VirtualGuide.app/icon.png
-s434221549.447565
-e434221549.449891
-r1
-xCpResource
-xVirtualGuide/Resources/icons/icon.png
-xbuild/emulator/VirtualGuide.app/icon.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy build/emulator/VirtualGuide.app/icon.png97"[1mCpResource[0m VirtualGuide/Resources/icons/icon.png build/emulator/VirtualGuide.app/icon.png36e972edb1e1b941^6a2e73edb1e1b941^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon.png0034a42ddcffdf42^854"[1mCpResource[0m VirtualGuide/Resources/icons/icon.png build/emulator/VirtualGuide.app/icon.png    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon.png /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app36"F533FBE7-F80A-47BF-A0F7-AFF9AB8B10B9-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CCpResource VirtualGuide/Resources/icons/icon@2x.png build/emulator/VirtualGuide.app/icon@2x.png
-s434221549.448360
-e434221549.450935
-r1
-xCpResource
-xVirtualGuide/Resources/icons/icon@2x.png
-xbuild/emulator/VirtualGuide.app/icon@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/VirtualGuide.app/icon@2x.png103"[1mCpResource[0m VirtualGuide/Resources/icons/icon@2x.png build/emulator/VirtualGuide.app/icon@2x.png24f172edb1e1b941^717273edb1e1b941^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/icon@2x.png0034a42ddcffdf42^863"[1mCpResource[0m VirtualGuide/Resources/icons/icon@2x.png build/emulator/VirtualGuide.app/icon@2x.png    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/icons/icon@2x.png /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app36"14C0B4E7-FF5F-4289-8DB3-3DA901808A87-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CCpResource VirtualGuide/Resources/splash/Default-568h@2x~iphone.png build/emulator/VirtualGuide.app/Default-568h@2x~iphone.png
-s434221549.461898
-e434221549.463685
-r1
-xCpResource
-xVirtualGuide/Resources/splash/Default-568h@2x~iphone.png
-xbuild/emulator/VirtualGuide.app/Default-568h@2x~iphone.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/emulator/VirtualGuide.app/Default-568h@2x~iphone.png134"[1mCpResource[0m VirtualGuide/Resources/splash/Default-568h@2x~iphone.png build/emulator/VirtualGuide.app/Default-568h@2x~iphone.png056d76edb1e1b941^79af76edb1e1b941^---0#0#1#-19%DVTDocumentLocation2@142"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/Default-568h@2x~iphone.png0034a42ddcffdf42^910"[1mCpResource[0m VirtualGuide/Resources/splash/Default-568h@2x~iphone.png build/emulator/VirtualGuide.app/Default-568h@2x~iphone.png    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/splash/Default-568h@2x~iphone.png /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app36"96985464-C644-452D-B331-21F03B627C55-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CCpResource VirtualGuide/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/VirtualGuide.app/Default-Landscape@2x~ipad.png
-s434221549.455101
-e434221549.456649
-r1
-xCpResource
-xVirtualGuide/Resources/splash/Default-Landscape@2x~ipad.png
-xbuild/emulator/VirtualGuide.app/Default-Landscape@2x~ipad.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy build/emulator/VirtualGuide.app/Default-Landscape@2x~ipad.png140"[1mCpResource[0m VirtualGuide/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/VirtualGuide.app/Default-Landscape@2x~ipad.png869374edb1e1b941^702775edb1e1b941^---0#0#1#-19%DVTDocumentLocation2@145"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/Default-Landscape@2x~ipad.png0034a42ddcffdf42^919"[1mCpResource[0m VirtualGuide/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/VirtualGuide.app/Default-Landscape@2x~ipad.png    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/splash/Default-Landscape@2x~ipad.png /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app36"97B9630C-94DA-4EB1-AA57-B210C294DAEE-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CCpResource VirtualGuide/Resources/splash/Default-Landscape~ipad.png build/emulator/VirtualGuide.app/Default-Landscape~ipad.png
-s434221549.454901
-e434221549.457617
-r1
-xCpResource
-xVirtualGuide/Resources/splash/Default-Landscape~ipad.png
-xbuild/emulator/VirtualGuide.app/Default-Landscape~ipad.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/emulator/VirtualGuide.app/Default-Landscape~ipad.png134"[1mCpResource[0m VirtualGuide/Resources/splash/Default-Landscape~ipad.png build/emulator/VirtualGuide.app/Default-Landscape~ipad.png99d474edb1e1b941^b03b75edb1e1b941^---0#0#1#-19%DVTDocumentLocation2@142"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/Default-Landscape~ipad.png0034a42ddcffdf42^910"[1mCpResource[0m VirtualGuide/Resources/splash/Default-Landscape~ipad.png build/emulator/VirtualGuide.app/Default-Landscape~ipad.png    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/splash/Default-Landscape~ipad.png /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app36"7A867C01-EF1F-406D-8D1B-C8B9AC19D6D8-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CCpResource VirtualGuide/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/VirtualGuide.app/Default-Portrait@2x~ipad.png
-s434221549.456319
-e434221549.457816
-r1
-xCpResource
-xVirtualGuide/Resources/splash/Default-Portrait@2x~ipad.png
-xbuild/emulator/VirtualGuide.app/Default-Portrait@2x~ipad.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/emulator/VirtualGuide.app/Default-Portrait@2x~ipad.png138"[1mCpResource[0m VirtualGuide/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/VirtualGuide.app/Default-Portrait@2x~ipad.png6de274edb1e1b941^8a5775edb1e1b941^---0#0#1#-19%DVTDocumentLocation2@144"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/Default-Portrait@2x~ipad.png0034a42ddcffdf42^916"[1mCpResource[0m VirtualGuide/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/VirtualGuide.app/Default-Portrait@2x~ipad.png    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/splash/Default-Portrait@2x~ipad.png /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app36"7C950A6D-44AD-4626-8435-989B69740A53-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CCpResource VirtualGuide/Resources/splash/Default-Portrait~ipad.png build/emulator/VirtualGuide.app/Default-Portrait~ipad.png
-s434221549.458475
-e434221549.461253
-r1
-xCpResource
-xVirtualGuide/Resources/splash/Default-Portrait~ipad.png
-xbuild/emulator/VirtualGuide.app/Default-Portrait~ipad.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/emulator/VirtualGuide.app/Default-Portrait~ipad.png132"[1mCpResource[0m VirtualGuide/Resources/splash/Default-Portrait~ipad.png build/emulator/VirtualGuide.app/Default-Portrait~ipad.png749675edb1e1b941^db1576edb1e1b941^---0#0#1#-19%DVTDocumentLocation2@141"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/Default-Portrait~ipad.png0034a42ddcffdf42^907"[1mCpResource[0m VirtualGuide/Resources/splash/Default-Portrait~ipad.png build/emulator/VirtualGuide.app/Default-Portrait~ipad.png    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/splash/Default-Portrait~ipad.png /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app36"DBFB9098-D0F4-438C-A78B-E551862FFEEB-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CCpResource VirtualGuide/Resources/splash/Default@2x~iphone.png build/emulator/VirtualGuide.app/Default@2x~iphone.png
-s434221549.458888
-e434221549.461658
-r1
-xCpResource
-xVirtualGuide/Resources/splash/Default@2x~iphone.png
-xbuild/emulator/VirtualGuide.app/Default@2x~iphone.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/emulator/VirtualGuide.app/Default@2x~iphone.png124"[1mCpResource[0m VirtualGuide/Resources/splash/Default@2x~iphone.png build/emulator/VirtualGuide.app/Default@2x~iphone.pngbaa175edb1e1b941^903276edb1e1b941^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/Default@2x~iphone.png0034a42ddcffdf42^895"[1mCpResource[0m VirtualGuide/Resources/splash/Default@2x~iphone.png build/emulator/VirtualGuide.app/Default@2x~iphone.png    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/splash/Default@2x~iphone.png /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app36"F8E4ECB3-A033-4277-BDEE-E6CCC8E1E57C-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CCpResource VirtualGuide/Resources/splash/Default~iphone.png build/emulator/VirtualGuide.app/Default~iphone.png
-s434221549.461334
-e434221549.462708
-r1
-xCpResource
-xVirtualGuide/Resources/splash/Default~iphone.png
-xbuild/emulator/VirtualGuide.app/Default~iphone.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/emulator/VirtualGuide.app/Default~iphone.png118"[1mCpResource[0m VirtualGuide/Resources/splash/Default~iphone.png build/emulator/VirtualGuide.app/Default~iphone.png2a3676edb1e1b941^8a7576edb1e1b941^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/Default~iphone.png0034a42ddcffdf42^886"[1mCpResource[0m VirtualGuide/Resources/splash/Default~iphone.png build/emulator/VirtualGuide.app/Default~iphone.png    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/Resources/splash/Default~iphone.png /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app36"F3D23C7A-AF30-4E41-A357-088E399735BE-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CGenerateDSYMFile /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app.dSYM /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/VirtualGuide
-s434221560.880685
-e434221561.014400
-r1
-xGenerateDSYMFile
-x/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app.dSYM
-x/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/VirtualGuide
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Generate /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app.dSYM114"[1mGenerateDSYMFile[0m [1mbuild/emulator/VirtualGuide.app.dSYM[0m build/emulator/VirtualGuide.app/VirtualGuide6283e1f8b1e1b941^1db003f9b1e1b941^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app.dSYM0034a42ddcffdf42^874"[1mGenerateDSYMFile[0m [1mbuild/emulator/VirtualGuide.app.dSYM[0m build/emulator/VirtualGuide.app/VirtualGuide    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/VirtualGuide -o /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app.dSYM36"AFCA1AC7-0E20-45E3-A033-9224366E1B24-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CLd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/VirtualGuide normal i386
-s434221560.347508
-e434221560.879856
-r1
-xLd
-x/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/VirtualGuide
-xnormal
-xi386
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/VirtualGuide.LinkFileList
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/libCordova.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/main.o
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/AppDelegate.o
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/MainViewController.o
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
-d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
-d/usr/lib/libSystem.B.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
-d/usr/lib/system/libcache.dylib
-d/usr/lib/system/libcommonCrypto.dylib
-d/usr/lib/system/libcompiler_rt.dylib
-d/usr/lib/system/libcopyfile.dylib
-d/usr/lib/system/libcorecrypto.dylib
-d/usr/lib/system/libkeymgr.dylib
-d/usr/lib/system/liblaunch.dylib
-d/usr/lib/system/libmacho.dylib
-d/usr/lib/system/libquarantine.dylib
-d/usr/lib/system/libremovefile.dylib
-d/usr/lib/system/libsystem_asl.dylib
-d/usr/lib/system/libsystem_blocks.dylib
-d/usr/lib/system/libsystem_c.dylib
-d/usr/lib/system/libsystem_configuration.dylib
-d/usr/lib/system/libsystem_dnssd.dylib
-d/usr/lib/system/libsystem_info.dylib
-d/usr/lib/system/libsystem_kernel.dylib
-d/usr/lib/system/libsystem_m.dylib
-d/usr/lib/system/libsystem_malloc.dylib
-d/usr/lib/system/libsystem_notify.dylib
-d/usr/lib/system/libsystem_platform.dylib
-d/usr/lib/system/libsystem_pthread.dylib
-d/usr/lib/system/libsystem_sandbox.dylib
-d/usr/lib/system/libunc.dylib
-d/usr/lib/system/libunwind.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Link /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/VirtualGuide67"[1mLd[0m build/emulator/VirtualGuide.app/VirtualGuide normal i386680659f8b1e1b941^813ee1f8b1e1b941^---0#0#1#--2090"[1mLd[0m build/emulator/VirtualGuide.app/VirtualGuide normal i386    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator -F/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator -filelist /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/VirtualGuide.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework AssetsLibrary /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -Xlinker -dependency_info -Xlinker /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Objects-normal/i386/VirtualGuide_dependency_info.dat -o /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/VirtualGuide36"47156498-A23E-45E1-B715-A80BB10E3A47-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CPhaseScriptExecution Copy\ www\ directory /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Script-304B58A110DAC018002A0835.sh
-s434221549.341367
-e434221549.445395
-r1
-xPhaseScriptExecution
-xCopy www directory
-x/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Script-304B58A110DAC018002A0835.sh
-o
-oreal	0m0.086s
-ouser	0m0.012s
-osys	0m0.021s
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'150"[1mPhaseScriptExecution[0m Copy\ www\ directory build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Script-304B58A110DAC018002A0835.she2b157edb1e1b941^f11072edb1e1b941^-42"real	0m0.086suser	0m0.012ssys	0m0.021s3(21%IDEActivityLogMessage2@14"real	0m0.086s-434221549#1#14#-0#-----2@14"user	0m0.012s-434221549#15#14#-0#-----2@13"sys	0m0.021s-434221549#29#13#-0#-----0#0#1#--428"[1mPhaseScriptExecution[0m Copy\ www\ directory build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Script-304B58A110DAC018002A0835.sh    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    /bin/sh -c /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/Script-304B58A110DAC018002A0835.sh36"A68AD2A7-381C-45CB-AAC5-ACCF5FAA158C-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CProcessInfoPlistFile /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/Info.plist /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/VirtualGuide-Info.plist
-s434221549.337664
-e434221549.340295
-r1
-xProcessInfoPlistFile
-x/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/Info.plist
-x/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/VirtualGuide-Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Process /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/VirtualGuide-Info.plist116"[1mProcessInfoPlistFile[0m build/emulator/VirtualGuide.app/Info.plist [1mVirtualGuide/VirtualGuide-Info.plist[0me48356edb1e1b941^e71d57edb1e1b941^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/VirtualGuide-Info.plist0000000000000000^994"[1mProcessInfoPlistFile[0m build/emulator/VirtualGuide.app/Info.plist [1mVirtualGuide/VirtualGuide-Info.plist[0m    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    builtin-infoPlistUtility /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/VirtualGuide-Info.plist -genpkginfo /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app/Info.plist36"7411F145-6CF6-405B-9138-97752FCA0D6C-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CProcessPCH /var/folders/3_/911fk42n3nxgfhk8xnnr13l8d9445t/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/VirtualGuide-Prefix-evnyrxrkortcsafsskfpdclsgwwb/VirtualGuide-Prefix.pch.pch VirtualGuide/VirtualGuide-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s434221559.967989
-e434221560.290512
-r1
-xProcessPCH
-x/var/folders/3_/911fk42n3nxgfhk8xnnr13l8d9445t/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/VirtualGuide-Prefix-evnyrxrkortcsafsskfpdclsgwwb/VirtualGuide-Prefix.pch.pch
-xVirtualGuide/VirtualGuide-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/VirtualGuide-Prefix.pch
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile VirtualGuide/VirtualGuide-Prefix.pch318"[1mProcessPCH[0m /var/folders/3_/911fk42n3nxgfhk8xnnr13l8d9445t/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/VirtualGuide-Prefix-evnyrxrkortcsafsskfpdclsgwwb/VirtualGuide-Prefix.pch.pch VirtualGuide/VirtualGuide-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8ee7f7f7b1e1b941^5b614af8b1e1b941^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/VirtualGuide-Prefix.pch0000000000000000^4344"[1mProcessPCH[0m /var/folders/3_/911fk42n3nxgfhk8xnnr13l8d9445t/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/VirtualGuide-Prefix-evnyrxrkortcsafsskfpdclsgwwb/VirtualGuide-Prefix.pch.pch VirtualGuide/VirtualGuide-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=93 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/VirtualGuide-generated-files.hmap -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/VirtualGuide-own-target-headers.hmap -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/VirtualGuide-all-target-headers.hmap -iquote /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/VirtualGuide-project-headers.hmap -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/include -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/usr/local/lib/include -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/UninstalledProducts/include -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/DerivedSources/i386 -I/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/VirtualGuide.build/Debug-iphonesimulator/VirtualGuide.build/DerivedSources -F/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator --serialize-diagnostics /var/folders/3_/911fk42n3nxgfhk8xnnr13l8d9445t/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/VirtualGuide-Prefix-evnyrxrkortcsafsskfpdclsgwwb/VirtualGuide-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/3_/911fk42n3nxgfhk8xnnr13l8d9445t/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/VirtualGuide-Prefix-evnyrxrkortcsafsskfpdclsgwwb/VirtualGuide-Prefix.pch.d -c /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/VirtualGuide/VirtualGuide-Prefix.pch -o /var/folders/3_/911fk42n3nxgfhk8xnnr13l8d9445t/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/VirtualGuide-Prefix-evnyrxrkortcsafsskfpdclsgwwb/VirtualGuide-Prefix.pch.pch36"6D1EF80F-F88A-40EE-BD4E-E0FE43F10EB9-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
-CTouch /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app
-s434221561.015524
-e434221561.041811
-r1
-xTouch
-x/Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Touch /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app45"[1mTouch[0m build/emulator/VirtualGuide.app600504f9b1e1b941^74b40af9b1e1b941^---0#0#1#--597"[1mTouch[0m build/emulator/VirtualGuide.app    cd /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki:/Users/coucurti1/Development/adt-bundle/sdk/platform-tools:/Users/coucurti1/Development/adt-bundle/sdk/tools"    /usr/bin/touch -c /Users/coucurti1/Desktop/projects/science-fair/VirtualGuideApp/platforms/ios/build/emulator/VirtualGuide.app36"7F2500E8-3DA7-403B-BA72-6D253D393803-
-bBF564268-9E01-4F4F-B592-430497FA5199
-
