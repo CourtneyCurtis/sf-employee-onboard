@@ -17,12 +17,12 @@
        under the License.
  */
 
-package com.project.virtualguide;
+package com.project.employeeonboard;
 
 import android.os.Bundle;
 import org.apache.cordova.*;
 
-public class VirtualGuide extends CordovaActivity 
+public class employeeonboard extends CordovaActivity 
 {
     @Override
     public void onCreate(Bundle savedInstanceState)
